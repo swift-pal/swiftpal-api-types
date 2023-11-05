@@ -1,0 +1,11 @@
+{
+  "name": "swiftpal-api-types",
+  "version": "0.0.1",
+  "description": "SwiftPal API typings",
+  "license": "MIT",
+  "exports": {
+    "./v1": {
+      "types": "./v1.ts"
+    }
+  }
+}
